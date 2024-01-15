@@ -5,29 +5,6 @@
 
 Name: Madeleine Drefke
 PennKey: mdrefke
-Hours to complete assignment: 40
-
-
-
-/**********************************************************************
- *  Please list all help, collaboration, and outside resources
- *  you used here. 
- *
- *  If you did not get any help in outside of TA office hours,
- *  and did not use any materials outside of the standard
- *  course materials and piazza, write the following statement below:
- *  "I did not receive any help outside of TA office hours.  I
- *  did not collaborate with anyone, and I did not use any
- *  resources beyond the standard course materials."
- **********************************************************************/
- I went to office hours for a few hours on Monday, December 13. Becca
- helped me out for a while (probably about 30 minutes), but we still
- couldn't figure out what was wrong so she called over Giancarlo who 
- helped me on zoom for about 1.5 hours. Giancarlo helped me figure out
- what was wrong with my code, so that it recognized all the cells as 
- having different values as they should rather than all mirroring the
- cell in the bottom righthand corner of the drawing.
-
 
 
 /**********************************************************************
